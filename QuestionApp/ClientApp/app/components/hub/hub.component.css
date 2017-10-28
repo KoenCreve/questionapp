@@ -1,0 +1,25 @@
+﻿body {
+}
+
+li {
+    list-style-type: none;
+}
+
+a {
+    margin-left: 10px;
+}
+
+.omkringd {
+    border-radius: 25px;
+    border: 1px solid #4885ed;
+    margin-top: 2%;
+    padding: 10px;
+    background: #4885ed;
+    color: white;
+}
+
+@media (max-width: 991px) {
+    .col-md-3 {
+        display: none;
+    }
+}

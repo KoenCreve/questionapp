@@ -1,0 +1,9 @@
+﻿body {
+}
+.jumbotron {
+    background-image: url("http://i68.tinypic.com/1zgt15z.jpg");
+    margin-bottom: 0;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
